@@ -2,6 +2,7 @@
 title: "A Review of Intangible Pursuit of Mathematics & My Three Years College Life"
 date: 2025-04-19
 draft: false
+slug: "intangible-pursuit"   
 ---
 
 I’m just an ordinary undergraduate student in the School of Management and Engineering at Nanjing University, majoring in Industrial Engineering. To be honest, I don’t particularly enjoy most of what we learn in this program. As an interdisciplinary field, it involves a lot of things I can’t connect with.
