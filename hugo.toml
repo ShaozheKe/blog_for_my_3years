@@ -1,0 +1,20 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = "My Life and Optimization"
+theme = 'PaperMod'
+
+[params]
+  author = 'Shaozhe Ke'
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  math = true
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
