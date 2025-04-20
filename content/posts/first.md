@@ -26,7 +26,7 @@ Gradually, I began to believe that pursuing a Ph.D. might be the right path for 
 
 Sometimes I ask myself: when will I be able to say that I “understand” optimization? Honestly, I don’t dare make such a claim. All I hope is that one day, I can say: “I understand a little bit of it.”
 
-That lack of formal training is still something I must work hard to overcome. But at least now, I know what I want. I want to do theoretical optimization. That said, I don’t reject applications—real-world problems can be incredibly inspiring too.
+That lack of formal training is still something I must work hard to overcome. But at least now, I know what I want. I want to do optimization and analysis. That said, I don’t reject applications—real-world problems can be incredibly inspiring too.
 
 This journey has been a lonely one. I’m not in the math department, and I don’t have many peers who share my interests in optimization. But I want to stay on this path. I’ve come too close to mathematics to walk away now.
 
