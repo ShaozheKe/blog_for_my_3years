@@ -1,6 +1,6 @@
 ---
 title: "A Review of Intangible Pursuit of Mathematics & My Three Years College Life"
-date: 2025-04-19
+date: 2025-08-3
 draft: false
 slug: "intangible-pursuit"   
 url: "/posts/intangible-pursuit/"
@@ -22,15 +22,15 @@ Even though I wasn’t a math major, I felt like I was finally getting closer to
 
 Speaking of that, back in high school, I was strangely fascinated by the name “algebraic topology.” I didn’t know what it was, but it sounded so advanced and mysterious.( Kind of funny by the way.) During my first year in college, I even tried reading a bit about it. Again, I understood very little, but even today, it’s something I remain curious about.
 
-Gradually, I began to believe that pursuing a Ph.D. might be the right path for me. I’ll talk more about that later. But as I dove deeper into the literature, I became increasingly aware of my biggest limitation: my mathematical training is not systematic enough. I may know where a concept originates from, but I don’t fully understand its properties, its stability, or its deeper meaning. Take variational inequalities, for example. I’ve read definitions and seen them used in papers, but I’ve never actually solved an exercise. The more I learn, the more I realize how little I know.
+Gradually, I began to believe that pursuing a Ph.D. might be the right path for me. I’ll talk more about that later. But as I dove deeper into the literature, I became increasingly aware of my biggest limitation: my mathematical training is not systematic enough. I may know where a concept originates from, but I don’t fully understand its properties, its stability, or its deeper meaning. Take variational inequalities, for example. I’ve read definitions and seen them used in papers, but I’ve never actually solved an exercise. The more I learn, the more I realize how little I know. Recently, however, I have been reading a number of papers on monotone inclusions and variational inequalities, and I feel that I have begun to build a more solid foundation compared to before.
 
 Sometimes I ask myself: when will I be able to say that I “understand” optimization? Honestly, I don’t dare make such a claim. All I hope is that one day, I can say: “I understand a little bit of it.”
 
-That lack of formal training is still something I must work hard to overcome. But at least now, I know what I want. I want to do optimization and analysis. That said, I don’t reject applications—real-world problems can be incredibly inspiring too.
+During my work at HKUST with Prof. Sanyou Mei, I worked on problems in nonconvex–concave minimax optimization. What I found most valuable was not only learning the technical details, but also beginning to see where ideas for improving bounds actually come from. Through discussions and paper presentations, I realized that progress in optimization often emerges from rethinking assumptions, reformulating problems, and connecting with deeper structural insights, rather than just applying existing tools mechanically. This experience taught me how to approach research more independently, to ask why certain results hold, and to search for the underlying principles that can guide the development of new methods. It gave me confidence that I can grow into a researcher who contributes not just by solving problems, but also by shaping the way we think about them.
 
 This journey has been a lonely one. I’m not in the math department, and I don’t have many peers who share my interests in optimization. But I want to stay on this path. I’ve come too close to mathematics to walk away now.
 
-Just a few days ago, two professors from The Hong Kong Polytechnic University—Prof. Xiaomeng Guo and Prof. Guang Xiao—came to Nanjing University for a talk. Professor Juan Li arranged for me to meet them. They told me they had studied pure mathematics at Tsinghua and Peking University, but eventually moved away from theory. They said doing pure theory isn’t always realistic, and that finding a faculty position in optimization is extremely difficult. They encouraged me to think carefully.
+Just a few months ago, two professors from The Hong Kong Polytechnic University—Prof. Xiaomeng Guo and Prof. Guang Xiao—came to Nanjing University for a talk. Professor Juan Li arranged for me to meet them. They told me they had studied pure mathematics at Tsinghua and Peking University, but eventually moved away from theory. They said doing pure theory isn’t always realistic, and that finding a faculty position in optimization is extremely difficult. They encouraged me to think carefully.
 
 I understand what they meant. Maybe someday, I’ll also walk away from theory. But not yet. I haven’t even had the chance to truly do mathematics. I’m not a math major—I haven’t really immersed myself in mathematical research. How could I already feel disillusioned? What they once had is still what I’m striving for.
 
